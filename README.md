@@ -31,3 +31,44 @@ The Google Cybersecurity Certificate is an 8-course program covering foundationa
 - [ ] **Course 8:** Put It to Work — Prepare for Cybersecurity Jobs
 
 ## 📂 Repository Structure
+/course-01-foundations/
+/course-02-risk-management/
+/course-03-network-security/
+/course-04-linux-sql/
+/course-05-assets-threats/
+/course-06-detection-response/
+/course-07-python-automation/
+/course-08-job-prep/
+/portfolio-projects/
+
+Each folder will contain:
+- Lab writeups (markdown)
+- Screenshots of completed exercises
+- Code snippets and scripts
+- Reflection notes
+
+## 🎓 Key Skills Demonstrated
+
+- Threat detection and incident response workflows
+- Network security analysis and packet inspection
+- Linux command-line proficiency and shell scripting
+- SQL queries for security investigations
+- Python scripting for security automation
+- SIEM tool operation (Splunk, Chronicle)
+- Risk assessment using NIST and industry frameworks
+
+## 🧭 Career Context
+
+This certificate complements my background as an **IT Infrastructure Program Manager** at Thomson Reuters (2013–2023), where I led global infrastructure delivery, AWS environments, and enterprise ITSM. My goal is to bridge senior program management experience with hands-on cybersecurity skills.
+
+**Existing certifications:** PMP, CSM, PRINCE2 Practitioner, CCNA, AWS Certified Cloud Practitioner, ITIL v3, MCP
+**Next planned cert:** CompTIA Security+
+
+## 📫 Connect
+
+- 💼 [LinkedIn] https://www.linkedin.com/in/sabirmhussain/
+- 📍 Rochester Hills, Michigan
+
+---
+
+*This portfolio is updated as I progress through the program. Each completed course adds new artifacts.*
