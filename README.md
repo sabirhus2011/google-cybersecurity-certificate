@@ -31,15 +31,15 @@ The Google Cybersecurity Certificate is an 8-course program covering foundationa
 - [ ] **Course 8:** Put It to Work — Prepare for Cybersecurity Jobs
 
 ## 📂 Repository Structure
-- **/course-01-foundations/
-- **/course-02-risk-management/
-- **/course-03-network-security/
-- **/course-04-linux-sql/
-- **/course-05-assets-threats/
-- **/course-06-detection-response/
-- **/course-07-python-automation/
-- **/course-08-job-prep/
-- **/portfolio-projects/
+- ** /course-01-foundations/
+- ** /course-02-risk-management/
+- ** /course-03-network-security/
+- ** /course-04-linux-sql/
+- ** /course-05-assets-threats/
+- ** /course-06-detection-response/
+- ** /course-07-python-automation/
+- ** /course-08-job-prep/
+- ** /portfolio-projects/
 
 Each folder will contain:
 - Lab writeups (markdown)
